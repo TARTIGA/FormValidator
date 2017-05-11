@@ -1,3 +1,4 @@
+// ХЕРНЯ, надо переписать этот детсад
 $(document).ready(function() {
     /**Main state */
     var state = {
